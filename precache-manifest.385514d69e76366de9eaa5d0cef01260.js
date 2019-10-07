@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "768761ef9588ec747868610c1c0edbbc",
+    "revision": "7ecc6a0dc7bf7883c216d82ac29640aa",
     "url": "/criptomonedas/index.html"
   },
   {
-    "revision": "470a3e9c4a4661eae81d",
+    "revision": "32d7560849838ac3ebd8",
     "url": "/criptomonedas/static/css/main.1db31c79.chunk.css"
   },
   {
-    "revision": "5e17c4562334daf123ca",
-    "url": "/criptomonedas/static/js/2.a73a93b0.chunk.js"
+    "revision": "8e03d2168665094ff25c",
+    "url": "/criptomonedas/static/js/2.5ada17ee.chunk.js"
   },
   {
-    "revision": "470a3e9c4a4661eae81d",
-    "url": "/criptomonedas/static/js/main.c8120540.chunk.js"
+    "revision": "32d7560849838ac3ebd8",
+    "url": "/criptomonedas/static/js/main.f8c0a292.chunk.js"
   },
   {
     "revision": "970f7e1beee22c8f0891",
